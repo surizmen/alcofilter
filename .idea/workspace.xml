@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="555afb3e-7422-47ed-b4a9-d7845fa287ab" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/yii-application/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/yii-application/vendor/behat/gherkin" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/composer" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/yiisoft/yii2" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/bower-asset/yii2-pjax" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/bower-asset/jquery" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/codeception/base" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/bower-asset/bootstrap" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/cebe/markdown" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/bower-asset/punycode" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/bower-asset/inputmask" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/phpspec/php-diff" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/codeception/stub" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/codeception/phpunit-wrapper" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/codeception/verify" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/yiisoft/yii2-faker" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/yiisoft/yii2-bootstrap" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/yiisoft/yii2-swiftmailer" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/yiisoft/yii2-composer" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/yiisoft/yii2-gii" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/yiisoft/yii2-debug" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/yii-application/vendor/yiithings/yii2-dotenv" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1TsYucFbW1Xh5rJiDRMGcJT8Z2o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/yii-application/frontend/models" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/yii-application" />
+      <recent name="$PROJECT_DIR$/yii-application/frontend" />
+      <recent name="$PROJECT_DIR$/yii-application/frontend/modules/api/models" />
+      <recent name="$PROJECT_DIR$/yii-application/frontend/modules/api/controllers" />
+      <recent name="$PROJECT_DIR$/yii-application/frontend/modules" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="555afb3e-7422-47ed-b4a9-d7845fa287ab" name="Default Changelist" comment="" />
+      <created>1574250493695</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574250493695</updated>
+      <workItem from="1574250494740" duration="150000" />
+      <workItem from="1574250646069" duration="635000" />
+      <workItem from="1574251309857" duration="6073000" />
+      <workItem from="1574305057810" duration="4339000" />
+      <workItem from="1574334994039" duration="1693000" />
+      <workItem from="1574406392107" duration="1504000" />
+      <workItem from="1574651645142" duration="8515000" />
+      <workItem from="1574679447650" duration="2707000" />
+      <workItem from="1574737742546" duration="16525000" />
+      <workItem from="1574758831537" duration="6701000" />
+      <workItem from="1574830746235" duration="12758000" />
+      <workItem from="1574912663643" duration="7716000" />
+      <workItem from="1574925951793" duration="1917000" />
+      <workItem from="1574999509681" duration="55000" />
+      <workItem from="1574999565799" duration="34000" />
+      <workItem from="1575877768104" duration="4065000" />
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1574251798900</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574251798901</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <created>1574309195586</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574309195586</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test">
+      <created>1574739769682</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1574739769682</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test">
+      <created>1574919775428</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1574919775429</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test">
+      <created>1575881329105</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1575881329105</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test">
+      <created>1575881454001</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1575881454001</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/yii-application" />
+    </ignored-roots>
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="557" y="152" width="860" height="810" key="CommitChangelistDialog2" timestamp="1575881453853">
+      <screen x="65" y="27" width="1855" height="1053" />
+    </state>
+    <state x="557" y="152" width="860" height="810" key="CommitChangelistDialog2/65.27.1855.1053@65.27.1855.1053" timestamp="1575881453853" />
+    <state x="776" y="311" width="447" height="505" key="FileChooserDialogImpl" timestamp="1575882153485">
+      <screen x="65" y="27" width="1855" height="1053" />
+    </state>
+    <state x="771" y="311" width="424" height="491" key="FileChooserDialogImpl/57.27.1863.1053@57.27.1863.1053" timestamp="1574999598280" />
+    <state x="776" y="311" width="447" height="505" key="FileChooserDialogImpl/65.27.1855.1053@65.27.1855.1053" timestamp="1575882153485" />
+    <state x="481" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1575882170580">
+      <screen x="65" y="27" width="1855" height="1053" />
+    </state>
+    <state x="481" y="188" width="1022" height="737" key="SettingsEditor/65.27.1855.1053@65.27.1855.1053" timestamp="1575882170580" />
+    <state x="587" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1575882217101">
+      <screen x="65" y="27" width="1855" height="1053" />
+    </state>
+    <state x="587" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/65.27.1855.1053@65.27.1855.1053" timestamp="1575882217101" />
+    <state x="644" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1574999514153">
+      <screen x="57" y="27" width="1863" height="1053" />
+    </state>
+    <state x="644" y="380" key="com.intellij.ide.util.TipDialog/57.27.1863.1053@57.27.1863.1053" timestamp="1574999514153" />
+    <state x="779" y="294" width="405" height="533" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1575881098664">
+      <screen x="65" y="27" width="1855" height="1053" />
+    </state>
+    <state x="779" y="294" width="405" height="533" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/65.27.1855.1053@65.27.1855.1053" timestamp="1575881098664" />
+  </component>
+</project>
